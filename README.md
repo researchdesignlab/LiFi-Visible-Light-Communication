@@ -28,7 +28,6 @@ A very innovative technology known as 'LiFi' or 'Light Fidelity’ or VLC (visib
 
 * Vehicle to vehicle communication.
 
-*Depends on the LED power.
 
 If you have any Quiries, Questions or Concerns, please contact support@researchdesignlab.com
 
