@@ -1,4 +1,4 @@
-# LiFi_Visible_Light_Communication
+# LiFi-Visible-Light-Communication
 
 
 If you have any Quiries, Questions or Concerns, please contact support@researchdesignlab.com
